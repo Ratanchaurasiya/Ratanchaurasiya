@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m **Ratan Chaurasiya**, a passionate **Information Technology student** and a growing developer who loves building real-world projects. I enjoy working with **Web Development, IoT, AI, and Data Structures**, and I’m always exploring new technologies to improve my skills.<br>I build modern, responsive websites using **HTML, CSS, and JavaScript**, and I’m currently learning **DSA in Java**, **C++**, and **SQL** to strengthen my core programming logic. I also work on IoT projects using **NodeMCU**, sensors, and RFID technology.<br>I believe in **learning by doing**, which is why I’ve created projects like:<br>* 🎨 Modern Portfolio Website<br>* 🧠 EduQuiz – Dynamic Quiz Platform<br>* 🎒 School Bag Product Website<br>* 📡 Smart Attendance System (IoT)<br>* 🛡️ AI-Based Phishing Detection System (Project Idea)<br>I love building clean UI, experimenting with animations, and solving problems with code. I’m also active on GitHub and LinkedIn, constantly improving and sharing my work.<br><br>## 🚀 **Current Focus**<br>* Learning **DSA in Java (NPTEL)**<br>* Improving **frontend development**<br>* Building **IoT-based systems**<br>* Understanding **relational query languages** (SQL3, DDL, DML)<br><br>## 📫 **Connect With Me**<br><br>📍 Ahmedabad, Gujarat<br>📧 [ratanchaurasiya61@gmail.com](mailto:ratanchaurasiya61@gmail.com)<br>🔗 GitHub: **Ratanchaurasiya**<br>🔗 LinkedIn: **Ratan Chaurasiya**<br><br>
 
-<!--
-**Ratanchaurasiya/Ratanchaurasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ratan_chaurasiya61/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ratan-chaurasiya-82288733a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratanchaurasiya61@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ratanchaurasiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ratanchaurasiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratanchaurasiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Ratanchaurasiya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
