@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I’m Ratan Chaurasiya, an Information Technology student with a strong interest in Data Analysis and practical problem-solving using data.<br><br>I enjoy working with data to discover insights, patterns, and trends using tools like Python, SQL, Excel, and Power BI. I like transforming raw data into meaningful visual reports and dashboards that support better decision-making.<br><br>Along with data analysis, I also do small web development projects using AI tools, where I use AI assistance to build modern, responsive websites using HTML, CSS, and JavaScript. This helps me quickly prototype ideas and improve my frontend development skills.<br><br>I believe in learning by doing, and I continuously work on projects that combine data, logic, and creativity to improve my technical abilities.
+Hi, I’m Ratan Chaurasiya, an Information Technology student with a strong interest in Data Analysis and practical problem-solving using data.<br>
+
+I enjoy working with data to discover insights, patterns, and trends using tools like Python, SQL, Excel, and Power BI. I like transforming raw data into meaningful visual reports and dashboards that support better decision-making.<br>
+
+Along with data analysis, I also do small web development projects using AI tools, where I use AI assistance to build modern, responsive websites using HTML, CSS, and JavaScript. This helps me quickly prototype ideas and improve my frontend development skills.<br>
+
+I believe in learning by doing, and I continuously work on projects that combine data, logic, and creativity to improve my technical abilities<br>
 
 
 ## 🌐 Socials:
