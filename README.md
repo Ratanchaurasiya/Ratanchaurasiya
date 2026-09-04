@@ -1,11 +1,15 @@
 # 💫 About Me:
-Hi, I’m Ratan Chaurasiya, an Information Technology student with a strong interest in Data Analysis and Full Stack Web Development.<br>
+Hi, I’m Ratan Chaurasiya, an Information Technology student with a strong interest in Data Analysis, SEO, Full Stack Web Development, and Vibe Coding.<br>
 
 I enjoy working with data to uncover insights, patterns, and trends using tools like Python, SQL, Excel, and Power BI. I am passionate about transforming raw data into meaningful dashboards and visual reports that support better decision-making.<br>
 
-At the same time, I am an aspiring Full Stack Developer with experience building responsive and user-friendly web applications using HTML, CSS, JavaScript, and modern development practices. I also leverage AI-powered tools to accelerate development, prototype ideas, and enhance user experiences.<br>
+Currently, I am working as an SEO Intern at Advaitya Projects, where I am gaining practical experience in keyword research, website optimization, content strategy, and improving online visibility.<br>
 
-I believe in learning by doing and continuously work on projects that combine data, logic, and creativity. Through hands-on experience in both data analytics and web development, I aim to build practical solutions that create real-world impact while continuously expanding my technical skills.<br>
+I also work on real-world software projects, including a Desktop Locker System, where I contribute as an Administrator, managing system functionality, user access, data, and administrative operations.<br>
+
+As an aspiring Full Stack Developer and Vibe Coder, I build responsive and user-friendly web applications using HTML, CSS, JavaScript, React.js, Node.js, and Express.js. I also use AI-powered development tools to quickly transform ideas into functional prototypes, accelerate development, debug applications, and improve user experiences.<br>
+
+I am continuously learning and building real-world projects to strengthen my technical, analytical, SEO, AI, and problem-solving skills while exploring modern ways of developing software with AI.<br>
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ratan.chaurasiya/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ratan_chaurasiya61) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ratan-chaurasiya-82288733a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ratanchaurasiya61@gmail.com) 
